@@ -10,7 +10,7 @@
 |---|---|---|
 | Akshay Govind | 002509562 | govind.ak@northeastern.edu |
 | Varun Singh | 002301584 | singh.varun3@northeastern.edu |
-| Krupali Tejani | 002400000 | tejani.k@northeastern.edu |
+| Krupali Tejani | 002305966 | tejani.k@northeastern.edu |
 
 ---
 
